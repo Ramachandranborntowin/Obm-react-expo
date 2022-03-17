@@ -1,0 +1,4 @@
+
+import useCustomCategoryValidationYupHooks from "../defaultCategory/useCustomCategoryValidationYupHooks";
+const useCustomManageServiceCategoryValidationYupHooks = useCustomCategoryValidationYupHooks
+export default useCustomManageServiceCategoryValidationYupHooks;

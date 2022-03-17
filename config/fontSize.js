@@ -1,0 +1,20 @@
+const fontSize = {
+    Beep_subHeading: 16,
+    Beep_heading: 18,
+    Beep_primaryButtonText: 17,
+    Beep_Text: 28,
+    Beep_Text2: 22,
+    Beep_Text_Small: 14,
+    Beep_description: 12,
+    Beep_login_logo: 25,
+    Beep_large_font: 35,
+    Beep_textStyle: 23,
+    Beep_iconSize_1: 8,
+    Beep_iconSize_2: 20,
+    Beep_iconSize_3: 50,
+    Beep_iconSize_4: 30,
+    Beep_Input_Big: 40,
+    Beep_radiobutton_label: 10,
+    Beep_DateText_label: 10,
+}
+export default fontSize
